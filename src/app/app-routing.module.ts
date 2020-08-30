@@ -6,6 +6,8 @@ import { Home3Component } from './components/pages/home3/home3.component';
 import { AboutComponent } from './components/pages/about/about.component';
 import { BlogstandardComponent } from './components/pages/blogstandard/blogstandard.component';
 import { ContactComponent } from './components/pages/contact/contact.component';
+import { BlogdetailsComponent } from './components/pages/blogdetails/blogdetails.component';
+import { BloggridComponent } from './components/pages/bloggrid/bloggrid.component';
 
 
 
@@ -21,6 +23,11 @@ const routes: Routes = [
   },
   {
     path: 'blog', component: BlogstandardComponent
+  },
+  {
+    path: 'blog-detail', component: BlogdetailsComponent
+  }, {
+    path: 'blog-grid', component: BloggridComponent
   }
 ];
 

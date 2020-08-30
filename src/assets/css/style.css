@@ -926,12 +926,12 @@ PRELOADER
       margin-top: 70px; } }
   .banner-area-2 .banner-overlay {
     height: 800px;
-    background-color: rgba(0, 13, 47, 0.5);
+    background-color: rgba(0,0,0,0);
     display: flex;
     align-items: center; }
     .banner-area-2 .banner-overlay .banner-content span {
       font-size: 30px;
-      color: #fff;
+      color: #000;
       opacity: .5;
       position: relative; }
       @media only screen and (min-width: 992px) and (max-width: 1200px) {
@@ -2817,7 +2817,7 @@ PRELOADER
     17.ACTION 2 css 
 ===========================*/
 .news-area {
-  background: #002249;
+  background: #ffffff;
   padding-top: 105px;
   padding-bottom: 120px; }
   .news-area .section-title-2 .title {
@@ -2892,7 +2892,7 @@ PRELOADER
       transform: scale(1.2) rotate(5deg); }
     .news-area .single-news:hover .single-news-overlay {
       padding: 37px 40px 37px;
-      background-color: rgba(0, 109, 232, 0.9); }
+      background-color: #fbe4cf; }
       @media (max-width: 767px) {
         .news-area .single-news:hover .single-news-overlay {
           padding: 20px; } }
