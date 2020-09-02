@@ -2067,6 +2067,12 @@ PRELOADER
 /*===========================
     11.FOOTER css 
 ===========================*/
+.footer-area{
+  background-color: #F6F6F6;
+}
+.footer-area .a{
+  color: #413c3c;
+}
 .footer-area .widget-item-1 p {
   padding-right: 30px;
   padding-top: 30px; }
@@ -2086,7 +2092,15 @@ PRELOADER
   margin-top: -8px;
   padding-bottom: 17px; }
 .footer-area .widget-item-2 .footer-list {
-  display: flex; }
+  display: flex; 
+  text-decoration: none;
+  color: inherit;
+  font-family: p22-underground,sans-serif;
+  font-weight: 300;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  display: inline-block;
+  padding: .5rem; }
   .footer-area .widget-item-2 .footer-list ul {
     display: inline-block; }
     .footer-area .widget-item-2 .footer-list ul li {
@@ -2179,7 +2193,7 @@ PRELOADER
     height: 700px;
     width: 700px;
     border-radius: 50%;
-    background-color: rgba(0, 109, 232, 0.4); }
+    background-color: #F6F6F6 }
   .footer-area.footer-area-2 .shape-2 {
     position: absolute;
     right: -10%;
@@ -2187,7 +2201,7 @@ PRELOADER
     height: 105px;
     width: 105px;
     border-radius: 50%;
-    background-color: #006de8; }
+    background-color: #F6F6F6; }
     @media (max-width: 767px) {
       .footer-area.footer-area-2 .shape-2 {
         right: -30%; } }
@@ -2201,7 +2215,7 @@ PRELOADER
     height: 33px;
     width: 33px;
     border-radius: 50%;
-    background-color: rgba(0, 109, 232, 0.4);
+    background-color: #F6F6F6;
     background-color: #00e8cf; }
   .footer-area.footer-area-2.footer-area-3 .footer-overlay {
     background-color: #00152e; }
