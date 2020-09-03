@@ -29,11 +29,11 @@
 ===========================*/
 @import url("https://fonts.googleapis.com/css?family=Karla:400,400i,700,700i&display=swap");
 @font-face {
-  font-family: 'GilroyBold';
+  font-family: p22-underground,sans-serif;
   src: url("../fonts/GilroyBold.eot");
   src: url("../fonts/GilroyBold.eot") format("embedded-opentype"), url("../fonts/GilroyBold.woff2") format("woff2"), url("../fonts/GilroyBold.woff") format("woff"), url("../fonts/GilroyBold.ttf") format("truetype"), url("../fonts/GilroyBold.svg#GilroyBold") format("svg"); }
 body {
-  font-family: "Karla", sans-serif;
+  font-family: p22-underground,sans-serif;
   font-weight: normal;
   font-style: normal;
   overflow-x: hidden;
@@ -71,7 +71,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "GilroyBold";
+  font-family: p22-underground,sans-serif;
   font-weight: 700;
   color: #002249;
   margin: 0px; }
@@ -112,7 +112,13 @@ p {
   background-repeat: no-repeat;
   width: 100%;
   height: 100%; }
-
+  
+  .center {
+    margin: auto;
+    width: 70%;
+    border: 3px solid #fbe4cf;
+    padding: 10px;
+  }
 /*===== All Button Style =====*/
 .main-btn {
   display: inline-block;
@@ -177,9 +183,9 @@ p {
       font-size: 54px; } }
   .section-title .title::before {
     position: absolute;
-    content: 'services';
+    content: '';
     font-size: 180px;
-    font-family: "GilroyBold";
+    font-family: p22-underground,sans-serif;
     font-weight: 700;
     bottom: 0;
     color: #f5f6f8;
@@ -1485,7 +1491,7 @@ PRELOADER
     color: #f5f6f7;
     right: 18px;
     bottom: -45px;
-    font-family: "GilroyBold";
+    font-family: p22-underground,sans-serif;
     font-weight: 700;
     z-index: -1; }
     @media only screen and (min-width: 992px) and (max-width: 1200px) {
@@ -1811,7 +1817,7 @@ PRELOADER
             position: absolute;
             content: '\f062';
             right: 36px;
-            font-family: 'Font Awesome 5 Pro'; }
+            font-family: p22-underground,sans-serif; }
             @media (max-width: 767px) {
               .faq-area .faq-accordion .accordion .card .card-header a::before {
                 right: 18px; } }
@@ -2073,6 +2079,16 @@ PRELOADER
 .footer-area .a{
   color: #413c3c;
 }
+.footer-area strong{
+ 
+    font-weight: bold;
+    font-size: 1.2rem;
+    font-family: p22-underground,sans-serif;
+    font-weight: 300;
+    letter-spacing: 1px;
+    text-transform: uppercase
+
+}
 .footer-area .widget-item-1 p {
   padding-right: 30px;
   padding-top: 30px; }
@@ -2246,6 +2262,9 @@ PRELOADER
 .about-area .about-thumb {
   position: relative;
   z-index: 5; }
+  .about-header{
+    font-size: 50px;
+  }
   .about-area .about-thumb::before {
     position: absolute;
     content: '';
@@ -2313,7 +2332,7 @@ PRELOADER
       font-weight: 700;
       color: #fbe4cf;
       font-size: 100px;
-      font-family: "GilroyBold";
+      font-family: p22-underground,sans-serif;
       padding-right: 15px;
       position: relative; }
       .about-area .about-item .about-experience h3::before {
@@ -2328,7 +2347,7 @@ PRELOADER
     .about-area .about-item .about-experience span {
       font-size: 30px;
       line-height: 40px;
-      font-family: "GilroyBold";
+      font-family: p22-underground,sans-serif;
       font-weight: 700;
       color: #002249;
       text-transform: capitalize; }
@@ -2410,7 +2429,7 @@ PRELOADER
     .what-we-do-area .what-we-do-item a::before {
       position: absolute;
       content: '\f41b';
-      font-family: 'Font Awesome 5 Brands';
+      font-family: p22-underground,sans-serif;
       font-size: 80px;
       top: -20px;
       left: 5px;
@@ -2731,7 +2750,7 @@ PRELOADER
           position: absolute;
           content: '\f106';
           right: 36px;
-          font-family: 'Font Awesome 5 Pro'; }
+          font-family: p22-underground,sans-serif; }
           @media (max-width: 767px) {
             .faq-accordion-2 .accordion .card .card-header a::before {
               right: 18px; } }
@@ -3739,7 +3758,7 @@ PRELOADER
       top: 0;
       height: 100%;
       width: 2px;
-      background: #e3eeff; }
+      background: #EFDFC8; }
       @media (max-width: 767px) {
         .about-history-area .history-item::after {
           display: none; } }
@@ -3747,7 +3766,7 @@ PRELOADER
       height: 60px;
       width: 60px;
       border-radius: 50%;
-      border: 4px solid #9edbff;
+      border: 4px solid #fbe4cf;
       position: absolute;
       top: -25px;
       right: -99px;
@@ -3925,7 +3944,7 @@ PRELOADER
             content: '\f068';
             right: 36px;
             font-size: 16px;
-            font-family: 'Font Awesome 5 Pro';
+            font-family: p22-underground,sans-serif;
             color: #99b1c8; }
             @media (max-width: 767px) {
               .faq-accordion-3 .accordion .card .card-header a::before {
@@ -6096,7 +6115,7 @@ nav .pagination.pagination-2 li a {
       .error-area .error-item .syotimer .syotimer__body .syotimer-cell .syotimer-cell__value {
         font-size: 50px;
         font-weight: 700;
-        font-family: "GilroyBold";
+        font-family: p22-underground,sans-serif;
         color: #002249;
         line-height: 50px; }
       .error-area .error-item .syotimer .syotimer__body .syotimer-cell .syotimer-cell__unit {
@@ -6150,6 +6169,20 @@ nav .pagination.pagination-2 li a {
   position: relative;
   z-index: 5;
 background-color: #FCF6F3; }
+.who-we-are-area-finn {
+  position: relative;
+  z-index: 5;
+  font-size: 15px;
+    padding-right: 15px;
+    line-height: 35px;
+    color: #616161;
+    padding-top: 25px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+background-color: #F6F6F6; }
   .who-we-are-area .section-title .title {
     font-size: 55px;
     color: #232323;
@@ -7121,7 +7154,7 @@ background-color: #FCF6F3; }
           text-decoration: none;
           font-weight: 700;
           font-size: 18px;
-          font-family: "GilroyBold";
+          font-family: p22-underground,sans-serif;
           width: 100%;
           color: #fbe4cf;
           position: relative; }
@@ -7158,7 +7191,7 @@ background-color: #FCF6F3; }
     font-size: 55px;
     font-weight: 500;
     color: #fbe4cf;
-    font-family: "GilroyBold";
+    font-family: p22-underground,sans-serif;
     line-height: 33px; }
   .our-choose-area .our-choose-counter-area .our-choose-counter > span {
     font-size: 18px;
