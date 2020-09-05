@@ -1,4 +1,8 @@
 import { Component, OnInit } from '@angular/core';
+import { HttpClientModule } from '@angular/common/http';
+
+import 'src/assets/js/smtp.js'
+declare let Email: any;
 
 @Component({
   selector: 'app-contact',

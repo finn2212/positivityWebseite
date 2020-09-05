@@ -119,6 +119,15 @@ p {
     border: 3px solid #fbe4cf;
     padding: 10px;
   }
+  @media (max-width: 800px) {
+      
+  .center {
+    margin: auto;
+     width: 100%;
+    border: 0px solid #fbe4cf; 
+    padding: 10px;
+  }
+  }
 /*===== All Button Style =====*/
 .main-btn {
   display: inline-block;
@@ -144,6 +153,9 @@ p {
   -o-transition: all 0.4s ease-out 0s;
   transition: all 0.4s ease-out 0s;
   background-color: #fbe4cf; }
+  .main-btn .about{
+    background-color: #fff !important;
+  }
   .main-btn:hover {
     background-color: transparent;
     color: #fff;
@@ -382,11 +394,16 @@ PRELOADER
       .header-nav .navigation {
         top: 80px;
         padding-left: 0;
-        padding-right: 0; } }
+        padding-right: 0;
+        padding-top: 15px;
+        padding-bottom: 15px;  } }
     @media only screen and (min-width: 576px) and (max-width: 767px) {
       .header-nav .navigation {
         padding-left: 30px;
-        padding-right: 30px; } }
+        padding-right: 30px; 
+      padding-top: 15px;
+      padding-bottom: 15px;    } }
+     
     .header-nav .navigation.sticky {
       position: fixed;
       top: 0;
@@ -959,7 +976,7 @@ PRELOADER
         width: 120px;
         left: -145px;
         top: 25px;
-        background: #fff; }
+         }
         @media (max-width: 767px) {
           .banner-area-2 .banner-overlay .banner-content span::before {
             display: none; } }
@@ -975,7 +992,7 @@ PRELOADER
         width: 120px;
         right: -145px;
         top: 25px;
-        background: #fff; }
+         }
         @media (max-width: 767px) {
           .banner-area-2 .banner-overlay .banner-content span::after {
             display: none; } }
@@ -2662,6 +2679,20 @@ PRELOADER
 /*===========================
     15.QUOTE css 
 ===========================*/
+.quote {
+  margin: 0;
+  background: #eee;
+  padding: 1em;
+  border-radius: 1em;
+  margin-top: 150px;
+  margin-left: 25px;
+  background-color: transparent;
+}
+@media (max-width: 500px) {
+  .quote {    
+    margin-top: 50px;
+    
+  } }
 .quote-area {
   background-attachment: fixed; }
   .quote-area .quote-overlay {
@@ -3335,9 +3366,20 @@ PRELOADER
     21.GET IN TOUCH css 
 ===========================*/
 .get-in-touch-area {
-  padding-top: 113px;
+  padding-top: 200px;
   padding-bottom: 120px;
-  background: #f7fcff; }
+  background: #FCF6F3;
+ }
+ @media (max-width: 767px){
+  .get-in-touch-area {
+    padding-top: 100px;
+     }
+}
+/* @media (max-width: 570px){
+  .get-in-touch-area {
+    padding-top: 50px;
+     }
+} */
   .get-in-touch-area .section-title .title {
     font-size: 60px;
     line-height: 70px; }
@@ -5109,7 +5151,13 @@ nav .pagination.pagination-2 li a {
     30.BLOG GRID css 
 ================================*/
 .blog-grid-area {
+  padding-top: 200px;
   overflow: hidden; }
+  @media (max-width: 767px){
+    .blog-grid-area {
+      padding-top: 50px;
+      overflow: hidden; }
+  }
   .blog-grid-area .blog-grid-item {
     position: relative; }
     .blog-grid-area .blog-grid-item img {
@@ -6209,7 +6257,7 @@ background-color: #F6F6F6; }
     .who-we-are-area .section-title .title::before {
       display: none; }
   .who-we-are-area .section-title p {
-    font-size: 15px;
+    font-size: 20px;
     padding-right: 15px;
     line-height: 35px;
     color: #616161;
