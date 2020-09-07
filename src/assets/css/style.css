@@ -65,6 +65,13 @@ span,
 a {
   display: inline-block; }
 
+ .mytitle {    
+  font-family: p22-underground,sans-serif;
+  font-weight: 400;
+  color: #fbe4cf !important;
+  margin: 0px; }
+  
+
 h1,
 h2,
 h3,
@@ -75,6 +82,7 @@ h6 {
   font-weight: 700;
   color: #002249;
   margin: 0px; }
+
 
 h1 {
   font-size: 48px; }
@@ -105,6 +113,7 @@ p {
   line-height: 28px;
   color: #413c3c;
   margin: 0px; }
+
 
 .bg_cover {
   background-position: center center;

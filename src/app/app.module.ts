@@ -14,6 +14,7 @@ import { BloggridComponent } from './components/pages/bloggrid/bloggrid.componen
 import { BlogstandardComponent } from './components/pages/blogstandard/blogstandard.component';
 import { ContactComponent } from './components/pages/contact/contact.component';
 import { Home3Component } from './components/pages/home3/home3.component';
+import { SnotifyModule, SnotifyService, ToastDefaults } from 'ng-snotify';
 
 @NgModule({
   declarations: [
@@ -33,9 +34,11 @@ import { Home3Component } from './components/pages/home3/home3.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    SnotifyModule
   ],
-  providers: [],
+  providers: [{ provide: 'SnotifyToastConfig', useValue: ToastDefaults },
+    SnotifyService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
