@@ -15,6 +15,7 @@ import { BlogstandardComponent } from './components/pages/blogstandard/blogstand
 import { ContactComponent } from './components/pages/contact/contact.component';
 import { Home3Component } from './components/pages/home3/home3.component';
 import { SnotifyModule, SnotifyService, ToastDefaults } from 'ng-snotify';
+import { ImpressumComponent } from './components/pages/impressum/impressum.component';
 
 @NgModule({
   declarations: [
@@ -31,6 +32,7 @@ import { SnotifyModule, SnotifyService, ToastDefaults } from 'ng-snotify';
     BlogstandardComponent,
     ContactComponent,
     Home3Component,
+    ImpressumComponent,
   ],
   imports: [
     BrowserModule,

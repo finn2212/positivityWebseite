@@ -8,6 +8,7 @@ import { BlogstandardComponent } from './components/pages/blogstandard/blogstand
 import { ContactComponent } from './components/pages/contact/contact.component';
 import { BlogdetailsComponent } from './components/pages/blogdetails/blogdetails.component';
 import { BloggridComponent } from './components/pages/bloggrid/bloggrid.component';
+import { ImpressumComponent } from './components/pages/impressum/impressum.component';
 
 
 
@@ -29,6 +30,9 @@ const routes: Routes = [
   },
   {
     path: 'blog-grid', component: BloggridComponent
+  },
+  {
+    path: 'impressum', component: ImpressumComponent
   }
 ];
 
