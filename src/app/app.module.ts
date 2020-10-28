@@ -16,6 +16,7 @@ import { ContactComponent } from './components/pages/contact/contact.component';
 import { Home3Component } from './components/pages/home3/home3.component';
 import { SnotifyModule, SnotifyService, ToastDefaults } from 'ng-snotify';
 import { ImpressumComponent } from './components/pages/impressum/impressum.component';
+import { PositivesDenkenComponent } from './components/pages/blog-posts/positives-denken/positives-denken.component';
 
 @NgModule({
   declarations: [
@@ -33,6 +34,7 @@ import { ImpressumComponent } from './components/pages/impressum/impressum.compo
     ContactComponent,
     Home3Component,
     ImpressumComponent,
+    PositivesDenkenComponent,
   ],
   imports: [
     BrowserModule,
