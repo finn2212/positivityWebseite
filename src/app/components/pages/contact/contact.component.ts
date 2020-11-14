@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { HttpClientModule } from '@angular/common/http';
-import { SnotifyService } from 'ng-snotify';
+
 import 'src/assets/js/smtp.js'
 
 import { NgForm } from '@angular/forms';

@@ -1,0 +1,99 @@
+{
+  "HEADER": {
+    "ABOUT": "Über",
+    "TITLE": "hello titile",
+    "LANGUAGE": "Language",
+    "HELP"   : "Help" 
+    
+  },
+  "FOOTER":{
+    "EN":"Englisch",
+    "DE":"Deutsch"
+  },
+  "HOME":{
+    "TEXT1":"Positivity to Go ist unser Herzensprojekt, mit welchem wir dich auf unserer Reise zur Selbstverwirklichung und zum geistigen Wohlbefinden mitnehmen möchten. Wir konzentrieren uns auf deine Stärken, positiven Eigenschaften und Erfahrungen des Lebens. Positivity to Go unterstützt dich dabei, ein erfülltes Leben zu gestalten und deinen individuellen Weg erfolgreich zu gehen – ohne Wenn und Aber. Du solltest dich mit nicht weniger zufriedengeben, als mit einem Leben, erfüllt mit Glück und Abenteuern. Ein Leben, in welchem du das tust, was du liebst.",
+    "TEXT2":"Ob du dein volles Potenzial erreichst, hängt weitgehend von dir selbst ab! Gemeinsam mit dir möchten wir herausfinden, wie du dieses Potenzial verwirklichen kannst und was dich glücklich macht. Wir teilen unsere Erfahrungen mit dir, um dich zu inspirieren, zu motivieren und dir zu helfen, deinen individuellen Weg in allen Lebensbereichen zu finden.",
+    "TEXT3":"Mit Positivity to Go nehmen wir dich mit auf neue Abenteuer, teilen unsere Erkenntnisse, möchten dir Positivität vermitteln und dich dazu inspirieren, deine Ziele zu erreichen. Lass uns gemeinsam nach mentaler Balance und geistigem Wohlbefinden streben, um zusammen das Beste aus unserem Leben zu machen!",
+    "POSTHI":"Positives Denken wird dein Leben verändern",
+    "MONEY":"Trendwort Money Mindset"
+  },
+  "ABOUT":{
+    "US1":"Dass wir erst an das andere Ende der Welt reisen müssen, um unseren Seelenverwandten zu treffen, hätten wir uns beide wohl niemals erträumen lassen. Zwei Menschen, zwei Lebensgeschichten, die nicht unterschiedlicher hätten sein können und dann kam Bali – und alles war anders. Das magische Inselparadies, wird immer eine ganz besondere Rolle in unserer gemeinsamen Geschichte spielen.",
+    "US2":"Aufgeben war nie eine Option, auch nicht während der 1,5 Jahre langen Fernbeziehung zwischen dem einen Ende von Deutschland zum anderen. All die Hochs und Tiefs, die wir in dieser Zeit erleben durften, haben uns als Team nur noch enger zusammengebracht. Unser gemeinsames Ziel war schnell klar – ein gemeinsames zu Hause finden. Also ging es direkt nach dem Bachelor nach Hamburg, wo wir uns in die nächste Challenge stürzten - das Masterstudium.",
+    "US3":"Zwei Sommerkinder in Hamburg, das geht nicht lange gut, sodass für uns schnell feststand, dass wir mehr von der Welt sehen möchten und wir uns mit nicht weniger zufrieden geben werden, als mit einem Leben voller Glück und Abenteuer. Wir möchten lieben was wir tun und Menschen unterstützen, diesen Weg ebenfalls zu gehen. In den teils schwierigen Zeiten verloren wir besonders durch eine Sache niemals unseren Fokus – Positivität. Das Glas halb voll sehen, nicht halb leer und sich auf das fokussieren, wofür es sich zu kämpfen lohnt. Genau mit dieser Stärke und Einstellung möchten wir Menschen inspirieren und motivieren. Das Leben ist kein Kompromiss – es ist eine einmalige Chance, Träume und Ziele zu verwirklichen… und das, ohne wenn und aber.",
+    "US4":"Begleite uns in dieses Leben und komm mit auf die magische Reise.",
+    "LA1":"Mir wurde das Reisen quasi in die Wiege gelegt. Meine erste Fernreise ging mit sechs Monaten nach Neuseeland – weiter weg geht es fast nicht. Durch meine Mutter durfte ich die ungewöhnlichsten Orte schon in jungen Jahren bereisen, sodass die Welt zu meinem Zuhause wurde. Ein richtiges Zuhause hatte ich eigentlich nie, da ich nirgendwo länger als ein paar Jahre gelebt habe, aber home is where my heart is.",
+    "LA2":"Nach einer nicht ganz einfachen Schulzeit mit vielen Ups und Downs, musste ich dann erst einmal raus – und das ganz alleine für mich! Also ging es für ein Jahr ans andere Ende der Welt nach Down Under. Dieses Jahr hat mich erwachsen werden lassen und zu der Person gemacht die ich heute bin. Neugierig, offen und voller Tatendrang möchte ich die große weite Welt erkunden und in neue Kulturen eintauchen.",
+    "LA3":"Schon früh habe ich überlegt, wie ich das Reisen zum Beruf machen kann und so ging es für mich 2015 nach München, um Tourismusmanagement zu studieren. Und dann kam dieses eine Jahr, das alles veränderte. Im Auslandssemester auf Bali lernte ich Finn kennen und aus mir als Einzelgängerin wurde ein Doppelpack. Nach einer viel zu langen Zeit der Fernbeziehung, ging es dann nach Hamburg und mit meinem Masterstudium in Wirtschaftspsychologie, wollte ich mir weitere Türen zur Welt und vor allem zu Menschen öffnen.",
+    "LA4":"Meinen Traum habe ich aber nie aus den Augen verloren",
+    "LA5":"die Welt zu meinem Zuhause und Arbeitsplatz machen.",
+    "FS1":"Aufgewachsen in einem kleinen Örtchen, mit der Großstadt Hamburg vor der Tür, war das Reisen und die Welt sehen nie oberste Priorität für mich. Ich wollte Karriere machen und dies am besten mit meiner Passion für Computer und Technik. Daher entschied ich mich schon während meines Abiturs, ein duales Studium in der Wirtschaftsinformatik zu machen - Selbstständigkeit und auf eigenen Beinen stehen, das hört sich doch gut an, oder?",
+    "FS2":"Für den Weg, den ich während des Studiums gehen durfte, bin ich extrem dankbar. Fachlich durfte ich so viel aus dieser Zeit mitnehmen, aber noch viel wichtiger, hat mich diese Zeit zu dem Menschen reifen lassen der ich heute bin.",
+    "FS3":"Der Wendepunkt meiner Glaubenssätze und meines Weltbildes war mein Auslandsemester auf Bali. Es hat mir aufgezeigt, dass die klassische Karriereleiter, bestehend aus Geld und Erfolg, nicht der Weg zum individuellen Glück und somit nicht mein Weg ist. Als ich dann noch Laura kennengelernt habe, stand meine Welt plötzlich Kopf und aus meinem Weg wurde unser Weg. Seitdem steht es fest – unser Ziel ist ein glückliches und erfülltes Leben, voller Freude, Glück und neuen Erfahrungen."
+
+  },
+  "APP":{
+    "TEXT1":"Definiere deine Ziele",
+    "TEXT2":"Lass deine Träume zu konkreten Zielen werden. Ein Maximum an Zielen gibt es nicht, denn die Ziele entwickeln sich weiter – genau wie du! Definiere und konkretisiere deine Ziele, plane sie im Kalender und lass dich von deinem Visionboard inspirieren und motivieren.",
+    "TEXT3":"Behalte deinen Fortschritt im Auge",
+    "TEXT4":"Gib jedem deiner Ziele konkrete ToDos und behalte diese immer im Blick. Plane für jedes ToDo eine Deadline, sodass du immer weißt, was du als nächstes zu tun hast, um dir deine Träume zu erfüllen. Der Kalender wird dich unterstützen, nie den Überblick zu verlieren.",
+    "TEXT5":"Visualisiere deine täglichen Routinen und ToDos",
+    "TEXT6":"Neben deinen Zielen gibt es auch Routinen. Die App unterstützt dich deine täglichen Routinen zu verinnerlichen. Routinen lassen sich einfach in täglichen, wöchentlichen und monatlichen Intervallen planen."
+  },
+  "BLOGGRID":{
+    "POST1":"Wie positives Denken dein Leben verändern kann",
+    "POST2":"Positives Money Mindset – Trendwort oder Realtalk?"
+  },
+  "BLOG":{
+    "POST1":{
+      "TEXT1":"Wie positives Denken dein Leben verändern kann",
+      "TEXT2":" Lesedauer: 2 Minuten",
+      "TEXT3":"Die Welt unterscheidet zwischen Optimisten, Pessimisten und Realisten – doch welche dieser Einstellungen bringt dich im Leben wirklich weiter? Wissenschaftler konnten nachweisen, dass positives Denken das Gehirn, unsere Fähigkeiten, unsere Gesundheit und somit unser ganzes Leben verändern kann.",
+      "TEXT4":"Für viele Forscher steht fest, dass was im Gehirn passiert, unseren Körper beeinflussen kann – und das im besten Fall positiv. Es gibt also eine Verbindung zwischen einer positiven Lebenseinstellung und der eigenen Gesundheit. Menschen, die positiv denken haben beispielsweise einen niedrigeren Blutdruck, eine geringere Wahrscheinlichkeit für Herzerkrankungen und eine gesündere Einstellung gegenüber dem eigenen Körper.",
+      "TEXT5":"Nach Psychologin Barbara L. Fredrickson, beeinflussen Emotionen die eigene Wahrnehmung und das Verhalten. Mittels ihrer Broaden-and-build-Theorie wies sie nach, dass die positiven Emotionen Freude, Interesse, Zufriedenheit und Liebe maßgeblich die eigenen Denkweisen und das Handlungsrepertoire erweitern können. Beispielsweise entfacht Freude den Drang zu spielen, Interesse den Drang zu erkunden, Zufriedenheit den Drang zu genießen und sich zu integrieren und Liebe den wiederkehrenden Zyklus jeder dieser Dränge in sicheren und engen Beziehungen. Darüber hinaus belegte sie, dass diese positiven Denkweisen und Emotionen das Entdecken neuer und kreativer Handlungen, Ideen und sozialer Bindungen fördern, sodass mittels dieser Emotionen deine persönlichen Ressourcen aufgebaut werden können, auf welche du jederzeit zurückgreifen kannst. Die Förderung dieser positiven Emotionen kann also nachhaltig deine Gesundheit und dein Wohlbefinden stärken.",
+      "TEXT6":"Wie kannst du nun aber aktiv diese positiven Gefühle trainieren?",
+      "TEXT7":"Die Professorin Judith T. Moskowitz entwickelte acht Fähigkeiten, die dir helfen können, deine positiven Emotionen zu fördern. Das Ziel hierbei ist, dass du dich in einer Krise glücklicher, ruhiger und zufriedener fühlst und eine stärkere Resilienz aufbaust. Versuche also mindestens drei dieser acht Fähigkeiten zu lernen, indem du sie jeden Tag übst.",
+      "TEXT8":"1. Erkenne jeden Tag ein positives Erlebnis",
+      "TEXT9":"2. Nimm diesen Moment aktiv wahr, schreibe ihn auf und erzähle am besten jemandem davon",
+      "TEXT10":"3. Beginne JETZT ein Dankbarkeitstagebuch zu schreiben",
+      "TEXT11":"4. Notiere eine positive Eigenschaft von dir und beobachte und reflektiere, wie du sie einsetzt",
+      "TEXT12":"5. Setze dir ein erreichbares Ziel und beobachte deinen Fortschritt", 
+      "TEXT13":"6. Notiere dir etwas, was dir Stress bereitet und finde Strategien, wie du diesen Dingen etwas Positives abgewinnen kannst",
+      "TEXT14":"7. Egal wie klein die Geste - Tu jeden Tag etwas Gutes für jemand anderen ",
+      "TEXT15":"8. Meditiere – richte deine Aufmerksamkeit einmal am Tag auf das Hier und jetzt",
+      "TEXT16":"Du hast es selbst in der Hand, dein Leben positiv zu beeinflussen, um dich selbst zu verwirklichen. Mentales Wohlbefinden und deine körperlichen Ressourcen sind miteinander verbunden - das eine kann nicht ohne das andere.",
+      "TEXT17":"Trainiere aktiv Fähigkeiten, welche dir helfen deine inneren Ressourcen aufzubauen. Dies wird dein mentales Wohlbefinden insofern stärken, dass du dich besser auf deine Ziele und Träume fokussieren kannst. Warte damit nicht bis morgen, sondern beginn heute damit, das Leben deiner Träume aufzubauen."
+
+    },
+    "POST2":{
+      "TEXT1":"Positives Money Mindset – Trendwort oder Realtalk?",
+      "TEXT2":"Lesedauer: 3 Minuten",
+      "TEXT3":"Mit diesem Blogpost möchte ich dir zeigen, was das Money Mindset ist, warum es sich lohnt, sich mit dem Thema Money Mindset auseinanderzusetzen und welchen nachhaltigen Einfluss es für dein Leben haben kann.",
+      "TEXT4":"Was ist eigentlich dieses Money Mindset?",
+      "TEXT5":"Zu allererst möchte ich einmal den Begriff Money Mindset für dich genauer unter die Lupe nehmen. Dieser beschreibt ähnlich wie dein allgemeines Mindset deine Haltung und Denkweise gegenüber Etwas – in diesem Fall gegenüber Geld besitzen und Geld ausgeben. Diese Einstellung beschreibt daher, wie du deine finanzielle Situation siehst und bewertest. Das Mindset beinhaltet Verhaltensmuster, Glaubenssätze aber auch innere Blockaden.",
+      "TEXT6":"Wie kannst du es nun aber schaffen, negative Glaubenssätze zu entfernen?",
+      "TEXT7":"95% unserer Entscheidung und Gedanken laufen unbewusst und automatisch ab. Wir nehmen sie überhaupt nicht wahr. Ist in unserem Mindset nun das Geldverdienen negativ behaftet, beeinflussend uns dies auch in unserem täglichen Handeln und Fühlen. Wir haben abgespeichert und verinnerlicht, dass Geldverdienen schlecht ist und haben daher immer ein schlechtes Gefühl beim Umgang mit Geld.",
+      "TEXT8":"Vielleicht hast du schonmal negativ behaftete (Glaubens-)Sätze gehört wie ",
+      "TEXT9":"„Geld verdirbt den Charakter“, ",
+      "TEXT10":"Geld allein macht nicht Glücklich",
+      "TEXT11":"Im ersten Schritt solltest du dir genau diese negative Einstellung bewusstmachen und umcodieren. Dabei hilft es dir, wenn du negative Glaubenssätze ins Positive übersetzt. Ein Beispiel hierfür wäre:",
+      "TEXT12":"„Geld gibt mir die Möglichkeit anderen Menschen zu helfen und Gutes zu tun“ ",
+      "TEXT13":"„Geld ermöglicht es mir, besser für meine Gesundheit zu sorgen“",
+      "TEXT14":"Nur wenn du dir deiner negativen Glaubenssätze bewusst bist, kannst du aktiv an diesen arbeiten und dein Mindset verändern. Das Ziel ist ein dynamisches Mindset zu erhalten, welches offen für Neues ist und ständig dazulernt und ausprobiert. Damit lassen sich dann innere Blockaden lösen und alte Muster in neue Glaubenssätze umwandeln.",
+      "TEXT15":"Aber lass uns noch einen Schritt tiefer gehen und analysieren, warum ein postives Money Mindset hilfreich im Alltag sein kann. Diese Aussage „Geld alleine mache nicht Glücklich“, mag zwar stimmen, aber du solltest bei der Interpretation aufpassen. Der Glaubenssatz bedeutet nicht, dass kein Geld haben einen automatisch glücklich macht. Geld hat nicht die Aufgabe dich glücklich oder unglücklich zu machen, diese Aufgabe hast ganz allein DU.",
+      "TEXT16":"Lasst uns aber mal konkret werden. Mit diesen drei Schritten kannst du dir ein positives und erfolgreiches Money Mindset erarbeiten:",
+      "TEXT17":" Geld zu verdienen macht….",
+      "TEXT18":" Geld ausgeben ist ….",
+      "TEXT19":"Rechnungen sind….",
+      "TEXT20":"Wenn deine Vervollständigungen nun größtenteils negativ behaftet sind, keine Bange, das muss nicht so bleiben. Den ersten Schritt hast du erfolgreich getan und deine Glaubensätze dir bewusst gemacht und reflektiert.",
+      "TEXT21":"Im zweiten Schritt solltest du nun deine negativen Glaubenssätze in positive umwandeln. Frage dich daher, ob deine negativen Glaubensätze überhaupt gerechtfertigt sind und diese wirklich eine Rolle in deinem Leben spielen. Haben sich deine negativen Glaubenssätze schon einmal bewahrheitet? Nein? Na dann kannst du los legen deine Glaubensätze ins positive umzuformulieren.",
+      "TEXT22":"Negativ: Geld zu haben macht einen nicht Glücklich. Positiv: Geld schenkt dir finanzielle Freiheit, die mich glücklicher macht.",
+      "TEXT23":"Negativ: Wirklich Geld haben nur die obersten 10%. Positiv: Du kannst auf sehr vielfältige Weisen Geld verdienen und dir das Leben deiner Träume ermöglichen.",
+      "TEXT24":"Im letzten Schritt solltest du nun deine Bewertungen zum Geldausgeben ändern. Es ist wichtig, dass du nicht verbissen jeden Cent sparst, sondern dich viel mehr bewusst für jede Ausgabe entscheidest. Investiere in die „richtigen“ Dinge – am Besten in dich selbst. Freue dich auf die Ausgabe, denn sie wird dich deinen Zielen näherbringen. Du wirst sehen, deine neuen Glaubenssätze, werden neue Gefühle und Einstellungen in die auslösen!"
+    }
+
+  }
+
+  
+ 
+}

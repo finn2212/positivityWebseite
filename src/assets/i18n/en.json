@@ -1,0 +1,97 @@
+{
+  "HEADER": {
+    "ABOUT": "About",
+    "TITLE": "hello titile",
+    "LANGUAGE": "Language",
+    "HELP"   : "Help" 
+    
+  },
+  "FOOTER":{
+    "EN":"English",
+    "DE":"German"
+  },
+  "HOME":{
+    "TEXT1":"Positivity to Go is our heart project, with which we would like to take you on our journey to self-realization and spiritual well-being. We focus on your strengths, positive qualities and experiences of life. Positivity to Go supports you to create a fulfilled life and to go your individual way successfully - without ifs and buts. You should not be satisfied with anything less than a life filled with happiness and adventure. A life in which you do what you love.",
+    "TEXT2":"Whether you reach your full potential depends largely on yourself! Together with you we would like to find out how you can realize this potential and what makes you happy. We share our experiences with you to inspire, motivate and help you to find your individual way in all areas of life.",
+    "TEXT3":"With Positivity to Go we take you on new adventures, share our insights, want to give you positivity and inspire you to achieve your goals. Let's strive together for mental balance and spiritual well-being to make the best of our lives together!",
+    "POSTHI":"Positive thinking will change your life",
+    "MONEY":"Trend word Money Mindset"
+  },
+  "ABOUT":{
+    "US1":"That we first have to travel to the other end of the world to meet our soul mate, we both would probably never have dreamed of. Two people, two life stories that could not have been more different and then came Bali - and everything was different. The magical island paradise, will always play a very special role in our common history.",
+    "US2":"Giving up was never an option, not even during the 1.5 year long long-distance relationship between one end of Germany and the other. All the highs and lows we experienced during this time have only brought us even closer together as a team. Our common goal was quickly clear - to find a common home. So right after our bachelor's degree we went to Hamburg, where we plunged into the next challenge - the master's degree.",
+    "US3":"Two summer children in Hamburg, this does not go well for long, so that for us it was soon clear that we want to see more of the world and we will not be satisfied with less than a life full of happiness and adventure. We want to love what we do and support people to go this way as well. In the sometimes difficult times we never lost our focus - positivity. Seeing the glass half full, not half empty and focusing on what is worth fighting for. It is exactly with this strength and attitude that we want to inspire and motivate people. Life is not a compromise - it's a unique chance to realize dreams and goals... and that without any ifs and buts.",
+    "US4":"Join us in this life and join us on this magical journey.",
+    "LA1":"I was practically born to travel. My first long-distance trip went to New Zealand when I was six months old - it is almost impossible to go further away. My mother allowed me to travel to the most unusual places at a young age, so that the world became my home. I never really had a real home, because I never lived anywhere for more than a few years, but home is where my heart is.",
+    "LA2":"After a not so easy time at school with many ups and downs, I had to get out of the house - and all by myself! So for one year I went to the other end of the world to Down Under. This year made me grow up and made me the person I am today. Curious, open-minded and full of energy I want to explore the big wide world and dive into new cultures.",
+    "LA3":"Early on I thought about how I could make travel my profession and so I went to Munich in 2015 to study Tourism Management. And then came this one year that changed everything. During my semester abroad on Bali I got to know Finn and I became a double as a loner. After a much too long time of long-distance relationships, I went to Hamburg and with my master's degree in business psychology, I wanted to open more doors to the world and especially to people.",
+    "LA4":"But I have never lost sight of my dream",
+    "LA5":"die Welt zu meinem Zuhause und Arbeitsplatz machen.",
+    "FS1":"Growing up in a small town with the big city of Hamburg on my doorstep, traveling and seeing the world was never my top priority. I wanted to make a career and this best with my passion for computers and technology. That's why I decided to do a dual study in business informatics while I was still at school - independence and standing on my own two feet, that sounds good, doesn't it?",
+    "FS2":"I am extremely grateful for the path I was allowed to take during my studies. Professionally, I was allowed to take so much with me from this time, but more importantly, this time has allowed me to mature into the person I am today.",
+    "FS3":"The turning point of my beliefs and my world view was my semester abroad in Bali. It showed me that the classic career ladder, consisting of money and success, is not the way to individual happiness and therefore not my path. When I met Laura, my world suddenly turned upside down and my way became our way. Since then it is clear - our goal is a happy and fulfilled life, full of joy, happiness and new experiences."
+  },
+  "APP":{
+    "TEXT1":"Define your goals",
+    "TEXT2":"Let your dreams become concrete goals. There is no such thing as a maximum of goals, because goals evolve - just like you! Define and concretize your goals, plan them in the calendar and let yourself be inspired and motivated by your vision board.",
+    "TEXT3":"Keep an eye on your progress",
+    "TEXT4":"Give each of your goals concrete to-dos and always keep them in mind. Plan a deadline for each to-do so that you always know what to do next to make your dreams come true. The calendar will help you to never lose track.",
+    "TEXT5":"Visualize your daily routines and to-dos",
+    "TEXT6":"Besides your goals there are also routines. The app helps you to internalize your daily routines. Routines can easily be planned in daily, weekly and monthly intervals."
+  },
+  "BLOGGRID":{
+    "POST1":"How positive thinking can change your life",
+    "POST2":"Positive Money Mindset - Trend word or Realtalk?"
+  },
+  "BLOG":{
+    "POST1":{
+      "TEXT1":"How positive thinking can change your life",
+      "TEXT2":"Reading time: 2 minutes",
+      "TEXT3":"The world distinguishes between optimists, pessimists and realists - but which of these attitudes really gets you ahead in life? Scientists have been able to prove that positive thinking can change the brain, our abilities, our health and thus our whole life.",
+      "TEXT4":"For many researchers it is clear that what happens in the brain can influence our body - and in the best case positively. So there is a connection between a positive attitude to life and one's own health. For example, people who think positively have lower blood pressure, a lower probability of heart disease and a healthier attitude towards their own bodies.",
+      "TEXT5":"According to psychologist Barbara L. Fredrickson, emotions influence our own perception and behavior. Using her Broaden-and-build theory, she proved that positive emotions can significantly expand one's own way of thinking and repertoire of action. For example, joy sparks the urge to play, interest the urge to explore, satisfaction the urge to enjoy and integrate, and love the recurring cycle of each of these urges in safe and close relationships. Furthermore, she demonstrated that these positive ways of thinking and emotions promote the discovery of new and creative actions, ideas and social bonds, so that through these emotions your personal resources can be built up and accessed at any time. The promotion of these positive emotions can therefore strengthen your health and well-being in the long term.",
+      "TEXT6":"But how can you actively train these positive feelings?",
+      "TEXT7":"Professor Judith T. Moskowitz has developed eight skills that can help you develop your positive emotions. The goal is to make you feel happier, calmer and more satisfied in a crisis and to build up a stronger resilience. So try to learn at least three of these eight skills by practicing them every day.",
+      "TEXT8":"1. recognize a positive experience every day",
+      "TEXT9":"2. perceive this moment actively, write it down and tell someone about it",
+      "TEXT10":"3. start writing a gratitude diary NOW",
+      "TEXT11":"4. note a positive characteristic of yourself and observe and reflect on how you use it",
+      "TEXT12":"5. set yourself an achievable goal and monitor your progress", 
+      "TEXT13":"6. make a note of things that cause you stress and find strategies to make these things positive",
+      "TEXT14":"7. no matter how small the gesture - do something good for someone else every day ",
+      "TEXT15":"8. meditate - direct your attention once a day to the here and now",
+      "TEXT16":"You have it in your own hands to positively influence your life in order to realize yourself. Mental well-being and your physical resources are connected - one cannot do without the other.",
+      "TEXT17":"Actively train skills that help you build your inner resources. This will strengthen your mental well being to the extent that you can better focus on your goals and dreams. Don't wait until tomorrow, but start building the life of your dreams today."
+
+    },
+    "POST2":{
+      "TEXT1":"Positive Money Mindset - Trend word or Realtalk?",
+      "TEXT2":"Reading time: 3 minutes",
+      "TEXT3":"With this blog post I would like to show you what the Money Mindset is, why it is worth to deal with the topic Money Mindset and what lasting influence it can have on your life.",
+      "TEXT4":"What actually is this Money Mindset?",
+      "TEXT5":"First of all I would like to take a closer look at the term Money Mindset for you. It describes, similar to your general mindset, your attitude and way of thinking about something - in this case, about owning and spending money. This attitude therefore describes how you see and evaluate your financial situation. The mindset contains patterns of behavior, beliefs but also inner blockades.",
+      "TEXT6":"But how can you now manage to remove negative beliefs?",
+      "TEXT7":"95% of our decisions and thoughts run unconsciously and automatically. We do not perceive them at all. If our mindset is now negatively affected by money making, this also influences us in our daily actions and feelings. We have stored and internalized that making money is bad and therefore always have a bad feeling when dealing with money.",
+      "TEXT8":"Perhaps you have already heard negative (religious) sentences like ",
+      "TEXT9":" „Money corrupts character“ ",
+      "TEXT10":"„Money alone does not make you happy“ ",
+      "TEXT11":"In the first step you should be aware of exactly this negative attitude and recode it. It will help you if you translate negative beliefs into positive ones. An example of this would be:",
+      "TEXT12":" „Money gives me the opportunity to help other people and do good“ ",
+      "TEXT13":"Money enables me to take better care of my health",
+      "TEXT14":"Only when you are aware of your negative beliefs can you actively work on them and change your mindset. The goal is to maintain a dynamic mindset that is open to new things and is constantly learning and trying out new things. With this, inner blockades can be released and old patterns can be transformed into new beliefs.",
+      "TEXT15":"But let's go a step deeper and analyze why a positive Money Mindset can be helpful in everyday life. This statement money alone does not make you happy may be true, but you should be careful when interpreting it. The belief does not mean that having no money automatically makes you happy. Money does not have the task to make you happy or unhappy, this task has only YOU.",
+      "TEXT16":"But let's get concrete. With these three steps you can work out a positive and successful Money Mindset:",
+      "TEXT17":" Making money makes....",
+      "TEXT18":" Spending money is ....",
+      "TEXT19":"Invoices are....",
+      "TEXT20":"If your completions are now largely negative, don't worry, it doesn't have to stay that way. You have successfully taken the first step and have made yourself aware and reflected your beliefs.",
+      "TEXT21":"In the second step you should now transform your negative beliefs into positive ones. Ask yourself if your negative beliefs are justified at all and if they really play a role in your life. Have your negative beliefs ever been proven to be true? No? Well then you can start to reformulate your beliefs into positive ones.",
+      "TEXT22":"Negative: Having money does not make you happy. Positive: Having money gives you financial freedom, which makes me happier.",
+      "TEXT23":"Negative: Only the top 10% have real money. Positive: You can earn money in many different ways and live the life of your dreams.",
+      "TEXT24":"In the last step, you should now change your ratings for spending money. It is important that you don't save every cent, but rather make a conscious decision for each spending. Invest in the right things - preferably in yourself. Look forward to the spending, because it will bring you closer to your goals. You will see, your new beliefs will trigger new feelings and attitudes in you!"
+    }
+
+  }
+  
+  
+}
