@@ -10,8 +10,8 @@ import { BlogdetailsComponent } from './components/pages/blogdetails/blogdetails
 import { BloggridComponent } from './components/pages/bloggrid/bloggrid.component';
 import { ImpressumComponent } from './components/pages/impressum/impressum.component';
 import { PositivesDenkenComponent } from './components/pages/blog-posts/positives-denken/positives-denken.component';
-import { GoalAppComponent } from './components/pages/goal-app/goal-app.component';
 import { PositivesmonesmindsetComponent } from './components/pages/blog-posts/moneyMindset/positivesmonesmindset/positivesmonesmindset.component';
+import { ColabsComponent } from './components/pages/colabs/colabs.component';
 
 
 
@@ -44,11 +44,10 @@ const routes: Routes = [
     path: 'blog-grid', component: BloggridComponent
   },
   {
-    path: 'goalApp', component: GoalAppComponent
-  }
-  ,
-  {
     path: 'impressum', component: ImpressumComponent
+  },
+  {
+    path: 'collaboration', component: ColabsComponent
   }
 
 ];

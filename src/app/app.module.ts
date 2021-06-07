@@ -16,7 +16,6 @@ import { ContactComponent } from './components/pages/contact/contact.component';
 import { Home3Component } from './components/pages/home3/home3.component';
 import { ImpressumComponent } from './components/pages/impressum/impressum.component';
 import { PositivesDenkenComponent } from './components/pages/blog-posts/positives-denken/positives-denken.component';
-import { GoalAppComponent } from './components/pages/goal-app/goal-app.component';
 import { PositivesmonesmindsetComponent } from './components/pages/blog-posts/moneyMindset/positivesmonesmindset/positivesmonesmindset.component';
 import { HashLocationStrategy, LocationStrategy } from '@angular/common';
 
@@ -26,6 +25,8 @@ import { TranslateModule, TranslateLoader } from '@ngx-translate/core';
 import { LOCALE_ID } from '@angular/core';
 import { MatButtonModule } from '@angular/material/button';
 import { MatButtonToggleModule } from '@angular/material/button-toggle';
+import { ColabsComponent } from './components/pages/colabs/colabs.component';
+import { NgImageSliderModule } from 'ng-image-slider';
 
 
 export function HttpLoaderFactory(httpClient: HttpClient) {
@@ -48,8 +49,8 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
     Home3Component,
     ImpressumComponent,
     PositivesDenkenComponent,
-    GoalAppComponent,
-    PositivesmonesmindsetComponent
+    PositivesmonesmindsetComponent,
+    ColabsComponent
   ],
   imports: [
     BrowserModule,
@@ -57,6 +58,7 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
     HttpClientModule,
     MatButtonModule,
     MatButtonToggleModule,
+    NgImageSliderModule,
     TranslateModule.forRoot({
       loader: {
         provide: TranslateLoader,
