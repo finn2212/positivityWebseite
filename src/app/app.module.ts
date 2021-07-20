@@ -18,15 +18,24 @@ import { ImpressumComponent } from './components/pages/impressum/impressum.compo
 import { PositivesDenkenComponent } from './components/pages/blog-posts/positives-denken/positives-denken.component';
 import { PositivesmonesmindsetComponent } from './components/pages/blog-posts/moneyMindset/positivesmonesmindset/positivesmonesmindset.component';
 import { HashLocationStrategy, LocationStrategy } from '@angular/common';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { TranslateModule, TranslateLoader } from '@ngx-translate/core';
 import { LOCALE_ID } from '@angular/core';
 import { MatButtonModule } from '@angular/material/button';
-import { MatButtonToggleModule } from '@angular/material/button-toggle';
+import { MatButtonToggleModule } from '@angular/material/button-toggle'; 
+import {MatIconModule} from '@angular/material/icon';
+import {MatDividerModule} from '@angular/material/divider';
+
+
+import {MatSidenavModule} from '@angular/material/sidenav';
+import {MatToolbarModule} from '@angular/material/toolbar';
 import { ColabsComponent } from './components/pages/colabs/colabs.component';
 import { NgImageSliderModule } from 'ng-image-slider';
+import { GuidesComponent } from './components/pages/guides/guides.component';
+
 
 
 export function HttpLoaderFactory(httpClient: HttpClient) {
@@ -50,14 +59,20 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
     ImpressumComponent,
     PositivesDenkenComponent,
     PositivesmonesmindsetComponent,
-    ColabsComponent
+    ColabsComponent,
+    GuidesComponent
   ],
   imports: [
     BrowserModule,
+    BrowserAnimationsModule,
     AppRoutingModule,
     HttpClientModule,
-    MatButtonModule,
     MatButtonToggleModule,
+    MatSidenavModule,
+    MatToolbarModule,
+    MatButtonModule,
+    MatIconModule,
+    MatDividerModule,
     NgImageSliderModule,
     TranslateModule.forRoot({
       loader: {

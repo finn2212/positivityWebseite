@@ -12,6 +12,7 @@ import { ImpressumComponent } from './components/pages/impressum/impressum.compo
 import { PositivesDenkenComponent } from './components/pages/blog-posts/positives-denken/positives-denken.component';
 import { PositivesmonesmindsetComponent } from './components/pages/blog-posts/moneyMindset/positivesmonesmindset/positivesmonesmindset.component';
 import { ColabsComponent } from './components/pages/colabs/colabs.component';
+import { GuidesComponent } from './components/pages/guides/guides.component';
 
 
 
@@ -48,6 +49,9 @@ const routes: Routes = [
   },
   {
     path: 'collaboration', component: ColabsComponent
+  },
+  {
+    path: 'guides', component: GuidesComponent
   }
 
 ];
