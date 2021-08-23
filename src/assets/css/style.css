@@ -28,7 +28,7 @@
     1. COMMON css 
 ===========================*/
 @import url("https://fonts.googleapis.com/css?family=Karla:400,400i,700,700i&display=swap");
-
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
 @font-face {
   font-family: p22-underground, sans-serif;
   src: url("../fonts/GilroyBold.eot");
@@ -4068,6 +4068,7 @@ PRELOADER
   margin-top: 150px;
   margin-left: 25px;
   background-color: transparent;
+  
 }
 
 @media (max-width: 500px) {
